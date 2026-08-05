@@ -1,0 +1,10 @@
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ConectaECU">
+  <!-- Símbolo: dos nodos unidos por un puente -->
+  <circle cx="10" cy="20" r="6" fill="#12324F"/>
+  <circle cx="34" cy="20" r="6" fill="#E5A83B"/>
+  <path d="M14 20 Q22 10 30 20" stroke="#2E6FB8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Wordmark -->
+  <text x="50" y="27" font-family="Inter, sans-serif" font-size="19" fill="#12324F">
+    <tspan font-weight="400">Conecta</tspan><tspan font-weight="700">ECU</tspan>
+  </text>
+</svg>
